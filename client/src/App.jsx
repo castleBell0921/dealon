@@ -6,7 +6,7 @@ import ProductDetailPage from './pages/product/ProductDetailPage.jsx'
 import AuctionDetailPage from './pages/product/AuctionDetailPage.jsx'
 import AuctionForm from './pages/product/AuctionForm.jsx'
 import ProductForm from './pages/product/ProductForm.jsx'
-import MyPage from './pages/user/myPage/myPageContainer.jsx'
+import MyPage from './pages/user/myPage/MyPageContainer.jsx'
 import './styles/font.css';
 
 
