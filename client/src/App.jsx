@@ -4,8 +4,8 @@ import SignUp from './pages/user/signUp/SignUpContainer.jsx'
 
 import ProductDetailPage from './pages/product/ProductDetailPage.jsx'
 import AuctionDetailPage from './pages/product/AuctionDetailPage.jsx'
-import AuctionForm from './pages/product/AuctionForm.jsx'
-import ProductForm from './pages/product/ProductForm.jsx'
+import AuctionForm from './pages/product/AuctionFormContainer.jsx'
+import ProductForm from './pages/product/ProductFormContainer.jsx'
 import MyPage from './pages/user/myPage/MyPageContainer.jsx'
 import './styles/font.css';
 
